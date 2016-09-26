@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\sooraj\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.4.0\d85884acf6810a3bbbecb587f239005cbc846dc4\bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="C:\Users\sooraj\Desktop\aconceptaday\aptihelp\android\app\build\intermediates\pre-dexed\release\bolts-tasks-1.4.0-c8ca026cd84357dfcc5a47c92d9de8305d0ca89e.jar" />
+    </item>
+    <item
+        jar="C:\Users\sooraj\Desktop\aconceptaday\aptihelp\android\app\build\intermediates\exploded-aar\com.facebook.fresco\drawee\0.11.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1137942adeb03984c1311b662363dd38fc238fd3">
+        <dex dex="C:\Users\sooraj\Desktop\aconceptaday\aptihelp\android\app\build\intermediates\pre-dexed\release\classes-dc202a30efbdf81e4bac11548d2ff53a5df1ea17.jar" />
+    </item>
+    <item
+        jar="C:\Users\sooraj\.gradle\caches\modules-2\files-2.1\javax.inject\javax.inject\1\6975da39a7040257bd51d21a231b76c915872d38\javax.inject-1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="C:\Users\sooraj\Desktop\aconceptaday\aptihelp\android\app\build\intermediates\pre-dexed\release\javax.inject-1-63bea5a0652b44383e15ff388019d2a9c8b8c271.jar" />
+    </item>
+    <item
+        jar="C:\Users\sooraj\.gradle\caches\modules-2\files-2.1\com.nineoldandroids\library\2.4.0\e9b63380f3a242dbdbf103a2355ad7e43bad17cb\library-2.4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="C:\Users\sooraj\Desktop\aconceptaday\aptihelp\android\app\build\intermediates\pre-dexed\release\library-2.4.0-8153f4810fd854c8522b05f78324f96ffe05f3e2.jar" />
+    </item>
+    <item
+        jar="C:\Users\sooraj\Desktop\aconceptaday\aptihelp\android\app\build\intermediates\exploded-aar\com.facebook.fresco\fresco\0.11.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d31aadf33187c37a7cd63dc1b769f8c6e33f78c3">
+        <dex dex="C:\Users\sooraj\Desktop\aconceptaday\aptihelp\android\app\build\intermediates\pre-dexed\release\classes-67e6858555f20379bee213da789858b10c8cfcc9.jar" />
+    </item>
+    <item
+        jar="C:\Users\sooraj\Desktop\aconceptaday\aptihelp\android\app\build\intermediates\exploded-aar\com.facebook.fresco\fbcore\0.11.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="98786c1770b531b9194fb6448b2a2692c64074b6">
+        <dex dex="C:\Users\sooraj\Desktop\aconceptaday\aptihelp\android\app\build\intermediates\pre-dexed\release\classes-d0dd926ea741a462c51ef4fcbd0acc42cc8ea86b.jar" />
+    </item>
+    <item
+        jar="C:\Users\sooraj\Desktop\aconceptaday\aptihelp\android\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="C:\Users\sooraj\Desktop\aconceptaday\aptihelp\android\app\build\intermediates\pre-dexed\release\classes-19d4840b10ba269ff9d2c7eec18a99d6ea01a478.jar" />
+    </item>
+    <item
+        jar="C:\Users\sooraj\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-core\2.2.3\1a0113da2cab5f4c216b4e5e7c1dbfaa67087e14\jackson-core-2.2.3.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1a0113da2cab5f4c216b4e5e7c1dbfaa67087e14">
+        <dex dex="C:\Users\sooraj\Desktop\aconceptaday\aptihelp\android\app\build\intermediates\pre-dexed\release\jackson-core-2.2.3-1bbdfa5de9feb7c684f2fe8e861c7daea9954669.jar" />
+    </item>
+    <item
+        jar="C:\Users\sooraj\Desktop\aconceptaday\aptihelp\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline-base\0.11.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ca63c521b5745ae9a09629d7ca67ff6bc2a967fe">
+        <dex dex="C:\Users\sooraj\Desktop\aconceptaday\aptihelp\android\app\build\intermediates\pre-dexed\release\classes-1b35042ed766fc0ec6076ae5863c586987d3638f.jar" />
+    </item>
+    <item
+        jar="C:\Users\sooraj\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.2.1\support-annotations-23.2.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ccb693bc0774fcb637246f7360de25b4af7df318">
+        <dex dex="C:\Users\sooraj\Desktop\aconceptaday\aptihelp\android\app\build\intermediates\pre-dexed\release\support-annotations-23.2.1-fe565ea8fa7d5a4d016a605e69bee4ef831d9599.jar" />
+    </item>
+    <item
+        jar="C:\Users\sooraj\Desktop\aconceptaday\aptihelp\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3be474b1b21b31cf2fa93fe6bd641ae108d96452">
+        <dex dex="C:\Users\sooraj\Desktop\aconceptaday\aptihelp\android\app\build\intermediates\pre-dexed\release\classes-738158f969041281a0902e25dedab36e7a677d39.jar" />
+    </item>
+    <item
+        jar="C:\Users\sooraj\Desktop\aconceptaday\aptihelp\android\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4356e230a981d1bbf047d848b91bc0d9b7c5bacc">
+        <dex dex="C:\Users\sooraj\Desktop\aconceptaday\aptihelp\android\app\build\intermediates\pre-dexed\release\classes-6745411f3848ddc0c11d9af7da42f69b60fa9763.jar" />
+    </item>
+    <item
+        jar="C:\Users\sooraj\.gradle\caches\modules-2\files-2.1\com.google.code.findbugs\jsr305\3.0.0\5871fb60dc68d67da54a663c3fd636a10a532948\jsr305-3.0.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="C:\Users\sooraj\Desktop\aconceptaday\aptihelp\android\app\build\intermediates\pre-dexed\release\jsr305-3.0.0-afa3136f22fc1e3aaab80de4ab5a0a0f6bf38cbe.jar" />
+    </item>
+    <item
+        jar="C:\Users\sooraj\Desktop\aconceptaday\aptihelp\android\app\build\intermediates\exploded-aar\com.facebook.react\react-native\0.34.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="fde7c0ad7606dc25ae2c1fa11b8a48199ea3adc9">
+        <dex dex="C:\Users\sooraj\Desktop\aconceptaday\aptihelp\android\app\build\intermediates\pre-dexed\release\classes-4fa16d3c7583edc9068e82a76b8e81abd304f859.jar" />
+    </item>
+    <item
+        jar="C:\Users\sooraj\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.4.1\c7c4f9e35c2fd5900da24f9872e3971801f08ce0\okhttp-3.4.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c7c4f9e35c2fd5900da24f9872e3971801f08ce0">
+        <dex dex="C:\Users\sooraj\Desktop\aconceptaday\aptihelp\android\app\build\intermediates\pre-dexed\release\okhttp-3.4.1-b98421dc828b22c6f3ae0090eede00574db9eaa7.jar" />
+    </item>
+    <item
+        jar="C:\Users\sooraj\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp-urlconnection\3.4.1\63994437f62bc861bc20c605d12962f7246116d1\okhttp-urlconnection-3.4.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="63994437f62bc861bc20c605d12962f7246116d1">
+        <dex dex="C:\Users\sooraj\Desktop\aconceptaday\aptihelp\android\app\build\intermediates\pre-dexed\release\okhttp-urlconnection-3.4.1-1c8bd65b682638d6fdb8af08b001d99b632a0dc5.jar" />
+    </item>
+    <item
+        jar="C:\Users\sooraj\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp-ws\3.4.1\8ace66ef7002d98f633377c9e67daeeb196d8c3b\okhttp-ws-3.4.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8ace66ef7002d98f633377c9e67daeeb196d8c3b">
+        <dex dex="C:\Users\sooraj\Desktop\aconceptaday\aptihelp\android\app\build\intermediates\pre-dexed\release\okhttp-ws-3.4.1-68127c32aa464f43d88ce44ba7336d54a06e59d1.jar" />
+    </item>
+    <item
+        jar="C:\Users\sooraj\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.9.0\f824591a0016efbaeddb8300bee54832a1398cfa\okio-1.9.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="C:\Users\sooraj\Desktop\aconceptaday\aptihelp\android\app\build\intermediates\pre-dexed\release\okio-1.9.0-6a3263247c5468259bae46d866acd8a52c3fce98.jar" />
+    </item>
+    <item
+        jar="C:\Users\sooraj\Desktop\aconceptaday\aptihelp\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\jars\libs\internal_impl-23.2.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="607a3d0b8013b4ccbfeb0b7cb293351994e021fb">
+        <dex dex="C:\Users\sooraj\Desktop\aconceptaday\aptihelp\android\app\build\intermediates\pre-dexed\release\internal_impl-23.2.1-ed0b7cbcea472bcfebcbdbbca40afc7c9626ad12.jar" />
+    </item>
+    <item
+        jar="C:\Users\sooraj\Desktop\aconceptaday\aptihelp\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline\0.11.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3341b66c54367e777a0647e2db96c045329bfeab">
+        <dex dex="C:\Users\sooraj\Desktop\aconceptaday\aptihelp\android\app\build\intermediates\pre-dexed\release\classes-e6b588c2c9e7af23a6f61ba6fc79fd84c8feb850.jar" />
+    </item>
+    <item
+        jar="C:\Users\sooraj\Desktop\aconceptaday\aptihelp\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline-okhttp3\0.11.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="2b8a01ad9da5d26d0067894c22e87597bca2c500">
+        <dex dex="C:\Users\sooraj\Desktop\aconceptaday\aptihelp\android\app\build\intermediates\pre-dexed\release\classes-45a5c69c44ed24b2109044894f66f8399c838dc7.jar" />
+    </item>
+    <item
+        jar="C:\Users\sooraj\Desktop\aconceptaday\aptihelp\android\app\build\intermediates\exploded-aar\com.facebook.react\react-native\0.34.0\jars\libs\infer-annotations-1.5.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="556b9e3c9e1695ceb107102139dfe6346f4721c5">
+        <dex dex="C:\Users\sooraj\Desktop\aconceptaday\aptihelp\android\app\build\intermediates\pre-dexed\release\infer-annotations-1.5-08821b064b75497afd939821d617127add043da5.jar" />
+    </item>
+    <item
+        jar="C:\Users\sooraj\Desktop\aconceptaday\aptihelp\android\app\build\intermediates\exploded-aar\com.facebook.soloader\soloader\0.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="C:\Users\sooraj\Desktop\aconceptaday\aptihelp\android\app\build\intermediates\pre-dexed\release\classes-d1c89f4c2d62d69a48d62219859c42666e2b74e8.jar" />
+    </item>
+
+</items>
